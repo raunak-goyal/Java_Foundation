@@ -56,9 +56,9 @@ public class JavaOperators {
         // 7️⃣ Bitwise Operators
         int p = 5, q = 3;
         System.out.println("\nBitwise Operators:");
-        System.out.println("p & q = " + (p & q));
+        System.out.p rintln("p & q = " + (p & q));
         System.out.println("p | q = " + (p | q));
         System.out.println("p ^ q = " + (p ^ q));
         System.out.println("~p = " + (~p));
     }
-}
+    }
